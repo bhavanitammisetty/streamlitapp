@@ -26,7 +26,8 @@ with col1:
 )
     
     # st.image("bhanu1.jpg", width=300)
-    st.image("Bhanu.jpg",width=300)
+    # st.image("Bhanu.jpg",width=300)
+    st.write(os.getcwd())
 with col2:
     st.title("Bhavani Tammisetty", anchor=False)
     st.write(
